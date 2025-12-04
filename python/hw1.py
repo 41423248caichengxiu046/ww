@@ -53,4 +53,4 @@ print(ys,yz)
 if int(ys) != ys:
   r.move(steps)
 else:
-pass
+  pass
